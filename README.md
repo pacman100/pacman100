@@ -26,7 +26,7 @@ I'm Sourab Mangrulkar. I'm a Machine Learning Engineer and Applied Scientist <im
 - 🌱 Exploring Natural Language Processing, Computer Vision and Distributed Training at Scale. Always up for meaningful collaboration.
 - 😄 Pronouns: He/His/Him.
 - ⚡ In my free time I paint and write poems. Have started reading up on stocks and economic markets.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourab-m/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-smangrul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourab-m/)
 
 ---
 ### 🔥 &nbsp; My Stats :
