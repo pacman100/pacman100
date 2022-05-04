@@ -32,12 +32,6 @@ I'm Sourab Mangrulkar. I'm a Machine Learning Engineer and Applied Scientist <im
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-smangrul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourab-m/)
 
 ---
-### 🔥 &nbsp; My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=pacman100&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacman100&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
-
 ### 📝 Research : 
 - [Multilingual Semantic Sourcing using Product Images for Cross-lingual Alignment](https://www.amazon.science/publications/multilingual-semantic-sourcing-using-product-images-for-cross-lingual-alignment)
 - [A Context-aware Convolutional Natural Language Generation model for Dialogue Systems](https://aclanthology.org/W18-5020/)
@@ -47,3 +41,11 @@ I'm Sourab Mangrulkar. I'm a Machine Learning Engineer and Applied Scientist <im
 - [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](https://huggingface.co/blog/pytorch-fsdp)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+### 🔥 &nbsp; My Stats :
+<img src="https://github-readme-stats.vercel.app/api?username=pacman100&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacman100&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
