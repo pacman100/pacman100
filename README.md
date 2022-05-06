@@ -23,12 +23,12 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I'm Sourab Mangrulkar. I'm a Machine Learning Engineer and Applied Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m currently working as a Machine Learning Engineer at [Hugging Face](https://www.huggingface.co/).
 - 🌱 Exploring Natural Language Processing, Computer Vision and Distributed Training at Scale. Always up for meaningful collaboration.
 - 😄 Pronouns: He/His/Him.
-- ⚡ In my free time I paint and write poems. Have started reading up on stocks and economic markets.
+- ⚡ Painting 🎨, sketching ✍️ and poetry 📝 are my favourite hobbies. Recently, I've started reading up on stocks and economic markets.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-smangrul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourab-m/)
 
 ---
