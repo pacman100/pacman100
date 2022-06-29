@@ -33,12 +33,16 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img sr
 
 ---
 ### 📝 Research : 
-- [Multilingual Semantic Sourcing using Product Images for Cross-lingual Alignment](https://www.amazon.science/publications/multilingual-semantic-sourcing-using-product-images-for-cross-lingual-alignment)
-- [A Context-aware Convolutional Natural Language Generation model for Dialogue Systems](https://aclanthology.org/W18-5020/)
+- SIGIR 2022 (eCommerce Workshop): [HISS: A Novel Hybrid Inference Architecture in Embedding Based Product Sourcing using Knowledge Distillation](https://www.linkedin.com/posts/sourab-m_amazonscience-amazon-nlp-activity-6939992986621468672-WIwL?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- KDD 2022 (ADS Track): [BE3R: BERT-based early-exit using expert routing](https://www.amazon.science/publications/be3r-bert-based-early-exit-using-expert-routing)
+- WWW 2022 (Industry Track): [Multilingual Semantic Sourcing using Product Images for Cross-lingual Alignment](https://www.amazon.science/publications/multilingual-semantic-sourcing-using-product-images-for-cross-lingual-alignment)
+- SIGDial 2018: [A Context-aware Convolutional Natural Language Generation model for Dialogue Systems](https://aclanthology.org/W18-5020/)
+
 
 
 ### ✍️ Blog Posts : 
-- [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](https://huggingface.co/blog/pytorch-fsdp)
+- June 2022: [Accelerate Large Model Training using DeepSpeed](https://huggingface.co/blog/accelerate-deepspeed)
+- May 2022: [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](https://huggingface.co/blog/pytorch-fsdp)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
