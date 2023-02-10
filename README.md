@@ -41,6 +41,8 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img sr
 
 
 ### ✍️ Blog Posts : 
+- February 2023: [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware
+](https://huggingface.co/blog/peft)
 - June 2022: [Accelerate Large Model Training using DeepSpeed](https://huggingface.co/blog/accelerate-deepspeed)
 - May 2022: [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](https://huggingface.co/blog/pytorch-fsdp)
 <!-- BLOG-POST-LIST:START -->
