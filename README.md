@@ -41,6 +41,8 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img sr
 
 
 ### ✍️ Blog Posts : 
+- June 2023: [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+- May 2023: [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - February 2023: [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware
 ](https://huggingface.co/blog/peft)
 - June 2022: [Accelerate Large Model Training using DeepSpeed](https://huggingface.co/blog/accelerate-deepspeed)
