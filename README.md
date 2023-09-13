@@ -41,6 +41,7 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img sr
 
 
 ### ✍️ Blog Posts : 
+- September 2023: [Fine-tuning Llama 2 70B using PyTorch FSDP](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)
 - June 2023: [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 - May 2023: [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - February 2023: [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware
