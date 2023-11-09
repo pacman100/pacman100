@@ -41,8 +41,10 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img sr
 
 
 ### ✍️ Blog Posts : 
+- October 2023: [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
 - October 2023: [Falcon 180B Finetuning using 🤗 PEFT and DeepSpeed](https://medium.com/@sourabmangrulkar/falcon-180b-finetuning-using-peft-and-deepspeed-b92643091d99)
 - September 2023: [Fine-tuning Llama 2 70B using PyTorch FSDP](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)
+- August 2023: [Large Scale Training of Hugging Face Transformers on TPUs With PyTorch/XLA FSDP](https://pytorch.org/blog/large-scale-training-hugging-face/)
 - June 2023: [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 - May 2023: [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - February 2023: [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware
