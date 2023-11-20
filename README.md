@@ -54,8 +54,8 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist <img sr
 
 ### 💬 Talks and Presentations
 - October 2023: [Training a LLaMA in your Backyard: fFne-tuning Very Large Models on Consumer Hardware](https://www.youtube.com/watch?v=v3p574q_yrY&t=661s) @ PyTorch Conference 2023
-- August 2023: [Unleashing LLMs: Training, Finetuning, and Evaluating](https://www.analyticsvidhya.com/datahack-summit-2023/workshop/training-finetuning-and-evaluating-llms/)
-- August 2023: [Parameter-Efficient Fine-Tuning: Doing more with less](https://www.analyticsvidhya.com/datahack-summit-2023/session/parameter-efficient-fine-tuning-doing-more-with-less/) 
+- August 2023: [Unleashing LLMs: Training, Finetuning, and Evaluating](https://www.analyticsvidhya.com/datahack-summit-2023/workshop/training-finetuning-and-evaluating-llms/) @ DataHack SUmmit 2023 (Analytics Vidhya)
+- August 2023: [Parameter-Efficient Fine-Tuning: Doing more with less](https://www.analyticsvidhya.com/datahack-summit-2023/session/parameter-efficient-fine-tuning-doing-more-with-less/) @ DataHack SUmmit 2023 (Analytics Vidhya)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
