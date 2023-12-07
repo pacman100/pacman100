@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: &nbsp;About Me :
+### About Me :
 
 I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist from India 🇮🇳.
 
