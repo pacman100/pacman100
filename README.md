@@ -54,6 +54,7 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist from In
 - May 2022: [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](https://huggingface.co/blog/pytorch-fsdp)
 
 ### 💬 Talks and Presentations
+- December 2023: [Generative AI for All. 🤗 PEFT: Finetuning made simple, efficient and extendable](https://neurips.cc/virtual/2023/competition/66594) @ NeurIPS Conference 2023 -  Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day
 - October 2023: [Training a LLaMA in your Backyard: Fine-tuning Very Large Models on Consumer Hardware](https://www.youtube.com/watch?v=v3p574q_yrY&t=661s) @ PyTorch Conference 2023
 - August 2023: [Unleashing LLMs: Training, Finetuning, and Evaluating](https://www.analyticsvidhya.com/datahack-summit-2023/workshop/training-finetuning-and-evaluating-llms/) @ DataHack Summit 2023 (Analytics Vidhya)
 - August 2023: [Parameter-Efficient Fine-Tuning: Doing more with less](https://www.analyticsvidhya.com/datahack-summit-2023/session/parameter-efficient-fine-tuning-doing-more-with-less/) @ DataHack Summit 2023 (Analytics Vidhya)
