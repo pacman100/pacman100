@@ -33,6 +33,7 @@ I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist from In
 
 ---
 ### 📝 Research : 
+- Arxiv 2023 BigCode Project: [SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988)
 - SIGIR 2022 (eCommerce Workshop): [HISS: A Novel Hybrid Inference Architecture in Embedding Based Product Sourcing using Knowledge Distillation](https://www.amazon.science/publications/hiss-a-novel-hybrid-inference-architecture-in-embedding-based-product-sourcing-using-knowledge-distillation)
 - KDD 2022 (ADS Track): [BE3R: BERT-based early-exit using expert routing](https://www.amazon.science/publications/be3r-bert-based-early-exit-using-expert-routing)
 - WWW 2022 (Industry Track): [Multilingual Semantic Sourcing using Product Images for Cross-lingual Alignment](https://www.amazon.science/publications/multilingual-semantic-sourcing-using-product-images-for-cross-lingual-alignment)
