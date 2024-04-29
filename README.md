@@ -7,9 +7,6 @@
     <a href="https://huggingface.co/smangrul">
       <img src="https://img.shields.io/badge/Hugging Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
     </a>
-    <a href="https://twitter.com/sourab_m">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=pacman100&style=flat-square&color=blue" alt=""/>
   <h1>
