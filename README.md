@@ -20,9 +20,9 @@
 
 ### About Me :
 
-I'm Sourab Mangrulkar; a Machine Learning Engineer and Applied Scientist from India 🇮🇳.
+I'm Sourab Mangrulkar; an Applied Scientist and Machine Learning Engineer from India 🇮🇳.
 
-- 🔭 I’m currently working as a Machine Learning Engineer at [Hugging Face](https://www.huggingface.co/).
+- 🔭 I’m currently working as an Applied Scientist at [Amazon](https://www.amazon.com/).
 - 🌱 Exploring Natural Language Processing, Computer Vision and Distributed Training at Scale. Always up for meaningful collaboration.
 - 😄 Pronouns: He/His/Him.
 - ⚡ Painting 🎨, sketching ✍️ and poetry 📝 are my favourite hobbies. Recently, I've started reading up on stocks and economic markets.
