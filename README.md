@@ -39,9 +39,9 @@ I'm Sourab Mangrulkar; an Applied Scientist and Machine Learning Engineer from I
 
 
 ### ✍️ Blog Posts : 
-- March 2023: [You can now train a 70b language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) - In collaboration with [Answer.AI](https://www.answer.ai/)
-- February 2023: [🤗 PEFT welcomes new merging methods](https://huggingface.co/blog/peft_merging)
-- January 2023: [Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem](https://pytorch.org/blog/finetune-llms/)
+- March 2024: [You can now train a 70b language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) - In collaboration with [Answer.AI](https://www.answer.ai/)
+- February 2024: [🤗 PEFT welcomes new merging methods](https://huggingface.co/blog/peft_merging)
+- January 2024: [Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem](https://pytorch.org/blog/finetune-llms/)
 - December 2023: [Mixture of Experts Explained](https://huggingface.co/blog/moe)
 - October 2023: [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
 - October 2023: [Falcon 180B Finetuning using 🤗 PEFT and DeepSpeed](https://medium.com/@sourabmangrulkar/falcon-180b-finetuning-using-peft-and-deepspeed-b92643091d99)
