@@ -22,7 +22,7 @@
 
 I'm Sourab Mangrulkar; an Applied Scientist and Machine Learning Engineer from India 🇮🇳.
 
-- 🔭 I’m currently working as an Applied Scientist at [Amazon](https://www.amazon.com/).
+- 🔭 I’m currently working as an Applied Scientist at [Eternal](https://www.eternal.com/).
 - 🌱 Exploring Natural Language Processing, Computer Vision and Distributed Training at Scale. Always up for meaningful collaboration.
 - 😄 Pronouns: He/His/Him.
 - ⚡ Painting 🎨, sketching ✍️ and poetry 📝 are my favourite hobbies. Recently, I've started reading up on stocks and economic markets.
